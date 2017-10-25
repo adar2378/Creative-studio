@@ -1,0 +1,308 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    
+    
+}
+.firstWrap{
+    background-color: #F4F4F4;
+}
+.wrapper {
+    width: 60%;
+    margin: 0px auto;
+    overflow: hidden;
+    
+}
+
+.header {
+    min-height: 150px;
+    margin-bottom: 10px;
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 2px 5px #888888;
+}
+
+.emailAdrress {
+    width: 100%;
+    display: block;
+    float: right;
+    
+}
+
+.emailAdrress p{
+    float: right;
+    font-size: 12px;
+}
+
+.logo {
+    min-height: 100px;
+    width: 20%;
+    float: left;
+}
+
+.menubar {
+    width: 58.5%;
+    float: right;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.menubar ul{
+    color: white;
+    padding-left: 30px;
+    
+}
+
+
+.menubar ul li {
+    float: left;
+    text-transform: uppercase;
+    padding-right: 20px;
+    list-style-type: none;
+    padding-top: 38px;
+}
+
+.menubar ul li:last-child{
+    float: left;
+    text-transform: uppercase;
+    padding-right: 0px;
+}
+
+
+.menubar ul li a{
+    text-decoration: none;
+    color: #FBB763;
+    
+}
+.menubar ul li:hover a{
+    color: black;
+    transition: 1s;
+    
+}
+
+.banner {
+    
+    background-image: url(../images/orangeBackground.jpg);
+    min-height: 380px;
+    
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+
+.leftText {
+    min-height: 280px;
+    width: 45%;
+    float: left;
+    
+}
+.leftText h1 {
+    font-size: 75px;
+    color: #f4f4f4;
+    margin-left: 30px;
+    margin-top: 40px;
+    text-shadow: 0px -1px #0e0e0f;
+}
+
+.niceWork {
+    display: block;
+    margin-left: 30px;
+    background-color: #0e0e0f;
+    padding: 10px;
+    margin-top: 5px;
+    width:100%;
+    font-size: 14px;
+}
+.niceWork p{
+    color: #F4F4F4;
+    
+}
+.viewPortfolio{
+    float: right;
+    
+}
+.viewPortfolio a{
+    text-decoration: none;
+    color: #FD9A00;
+}
+.fa.fa-long-arrow-right {
+}
+
+.sampleImage {
+    width: 50%;
+    float: right;
+    min-height: 280px;
+    margin-top: 18px;
+}
+
+.topIntro {
+    min-height: 300px;
+    padding-top: 25px;
+    position: relative;
+    border-bottom: 1px solid black;
+    box-sizing: border-box;
+}
+
+.aboutUs {
+    width: 30%;
+    height: 240px;
+    float: left;
+    margin-right: 5%;
+}
+
+.title {
+    font-weight: bold;
+    padding-bottom: 20px;
+    border-bottom: 5px solid black;
+    box-sizing: border-box;
+}
+
+.article {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.readButton a{
+    text-decoration:none;
+    color: #FD9A00;
+}
+
+
+.ourBenefit {
+    width: 30%;
+    height: 240px;
+    float: left;
+    margin-right: 5%;
+}
+.checkBoxText{
+   padding-left: 10px;
+}
+.inputs {
+     margin-top: 10px;
+}
+
+.testimonials {
+     width: 30%;
+    height: 240px;
+    float: left;
+}
+
+.author {
+    margin-top: 50px;
+    font-weight: bold;
+    
+}
+
+.italic {
+    font-style: italic;
+}
+
+.ourPortfolio {
+    min-height: 300px;
+    padding-top: 25px;
+    
+}
+
+.ourPortfolio .title{
+    border: none;
+    position: relative;
+}
+.singleItem {
+    float: left;
+    width: 20%;
+    padding-right: 6%;
+}
+.singleItem:last-child{
+    padding-right: 0px;
+}
+.singleItem button {
+    background: orange;
+    padding: 2px;
+    border: none;
+    position: absolute;
+    top: 1050px;
+   
+}
+
+.{
+    min-height: 
+}
+.blogUpdates .title2{
+   
+    font-size: 10px;
+}
+.updates {
+    width: 70%;
+    float: left;
+}
+
+
+
+.connect {
+    
+}
+
+.socialIcon {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.bottom {
+}
+
+.menubar2 {
+    font-size: 12px;
+    float: left;
+}
+.menubar2 ul{
+    color: green;
+    padding-left: 0px;
+    
+}
+
+
+.menubar2 ul li {
+    float: left;
+    text-transform: uppercase;
+    
+    list-style-type: none;
+    padding-top: 38px;
+    
+}
+
+.menubar2 ul li:last-child{
+    float: left;
+    text-transform: uppercase;
+    padding-right: 0px;
+}
+
+
+.menubar2 ul li a{
+    text-decoration: none;
+    color: black;
+    padding-right: 20px;
+    padding-left: 10px;
+    border-right: 1px solid black;
+    
+}
+.menubar2 ul li a:first-child{
+    padding-left: 0px;
+    
+}
+.menubar2 ul li:hover a{
+    color: grey;
+    transition: 1s;
+    
+}
+.wrapper2{
+ background-color: #E2E2E2;   
+    
+}
+
+.fa.fa-copyright {
+}
+
+.logo2 {
+    float: right;
+}
